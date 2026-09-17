@@ -1,2 +1,1 @@
-# Comp484-hw3
-https://github.com/gissellefrancisco463-ux/Comp484-hw3.git
+https://csun-orm.github.io/comp484-hw3/
